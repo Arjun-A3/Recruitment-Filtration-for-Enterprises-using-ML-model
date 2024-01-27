@@ -35,6 +35,9 @@ This project, "Recruitment-Filtration-for-Enterprises-using-ML-model" leverages 
 ## Results
 The Gradio interface provides an interactive way to upload job descriptions and receive the top 10 matching resumes along with their scores.
 
+
+
+
 ## Acknowledgments
 The project uses the Gradio library for creating an interactive interface.
 Special thanks to the contributors and maintainers of the open-source libraries used in this project.
