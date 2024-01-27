@@ -25,6 +25,16 @@ This project, "Recruitment-Filtration-for-Enterprises-using-ML-model" leverages 
  Model Training: The Random Forest Regressor is used to predict resume scores based on encoded features.
 
  Gradio Interface: Launch the Gradio interface to upload a job description file and get the top 10 matching resumes.
+
+ File Structure
+
+ ├── Resume Ranker
+ 
+ │   ├── Job Description.txt   
+
+ |   ├── Resume Ranker.ipynb
+ 
+ │   └── Resume Ranking Data Set.csv            
  
  ## OneAPI Optimization
 
