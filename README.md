@@ -26,15 +26,15 @@ This project, "Recruitment-Filtration-for-Enterprises-using-ML-model" leverages 
 
  Gradio Interface: Launch the Gradio interface to upload a job description file and get the top 10 matching resumes.
 
- File Structure
 
- ├── Resume Ranker
- 
- │   ├── Job Description.txt   
+## Directory Structure
 
- |   ├── Resume Ranker.ipynb
- 
- │   └── Resume Ranking Data Set.csv            
+    
+        
+    ├── Resume Ranker
+    │   ├── Job Description.txt   
+    |   ├── Resume Ranker.ipynb
+    │   └── Resume Ranking Data Set.csv                  
  
  ## OneAPI Optimization
 
