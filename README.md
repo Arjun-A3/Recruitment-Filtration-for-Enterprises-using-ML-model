@@ -2,7 +2,7 @@
 # Resume Ranker 
 
 ## Overview
-his project, "Recruitment-Filtration-for-Enterprises-using-ML-model" leverages Natural Language Processing (NLP) techniques to evaluate the relevance of resumes to a provided job description. The main script, resumeparserfinal.ipynb, handles data preprocessing, feature engineering, and model training. Employing TF-IDF cosine similarity and a Random Forest Regressor, resumes are scored to aid in the recruitment process. Sample data is available in Resume_Ranking_Data_Set.csv, and a sample job description is provided in Job_Description.txt. The project structure ensures clarity and simplicity. The Gradio interface enables users to upload job descriptions and receive the top 10 matching resumes along with their scores. Overall, the project streamlines the resume ranking process in recruitment scenarios.
+This project, "Recruitment-Filtration-for-Enterprises-using-ML-model" leverages Natural Language Processing (NLP) techniques to evaluate the relevance of resumes to a provided job description. The main script, resumeparserfinal.ipynb, handles data preprocessing, feature engineering, and model training. Employing TF-IDF cosine similarity and a Random Forest Regressor, resumes are scored to aid in the recruitment process. Sample data is available in Resume_Ranking_Data_Set.csv, and a sample job description is provided in Job_Description.txt. The project structure ensures clarity and simplicity. The Gradio interface enables users to upload job descriptions and receive the top 10 matching resumes along with their scores. Overall, the project streamlines the resume ranking process in recruitment scenarios.
 
 ## Requirements
 - Python 3.x
