@@ -37,6 +37,10 @@ The Gradio interface provides an interactive way to upload job descriptions and 
 
 ![App Screenshot](https://github.com/Arjun-A3/Recruitment-Filtration-for-Enterprises-using-ML-model/blob/main/result/WhatsApp%20Image%202024-01-27%20at%2011.42.42%20AM.jpeg)
 
+https://github.com/Arjun-A3/Recruitment-Filtration-for-Enterprises-using-ML-model/assets/110415386/4dd3d2f7-1c08-4762-9e22-245dc83dffb2
+
+
+
 ## Acknowledgments
 The project uses the Gradio library for creating an interactive interface.
 Special thanks to the contributors and maintainers of the open-source libraries used in this project.
