@@ -35,7 +35,7 @@ This project, "Recruitment-Filtration-for-Enterprises-using-ML-model" leverages 
 ## Results
 The Gradio interface provides an interactive way to upload job descriptions and receive the top 10 matching resumes along with their scores.
 
-![App Screenshot](https://github.com/Arjun-A3/studyRepo/blob/fc29d6b36d8358a6d291db792c9ce0db1466486e/screenshots/WhatsApp%20Image%202023-06-04%20at%203.23.23%20PM.jpeg)
+![App Screenshot]([https://github.com/Arjun-A3/studyRepo/blob/fc29d6b36d8358a6d291db792c9ce0db1466486e/screenshots/WhatsApp%20Image%202023-06-04%20at%203.23.23%20PM.jpeg](https://github.com/Arjun-A3/Recruitment-Filtration-for-Enterprises-using-ML-model/blob/main/result/WhatsApp%20Image%202024-01-27%20at%2011.42.42%20AM.jpeg))
 
 ## Acknowledgments
 The project uses the Gradio library for creating an interactive interface.
