@@ -26,7 +26,29 @@ This project, "Recruitment-Filtration-for-Enterprises-using-ML-model" leverages 
 
  Gradio Interface: Launch the Gradio interface to upload a job description file and get the top 10 matching resumes.
  
- ## Optimizations
+ ## OneAPI Optimization
+
+This project has been optimized using the [OneDall](https://onedall.com/) library, a powerful and efficient tool for accelerating data processing tasks. OneDall provides a seamless integration of various APIs, simplifying the implementation of complex operations.
+
+### OneDall Integration
+
+The project leverages the OneDall library to enhance the efficiency of data processing, particularly in the context of resume ranking. OneDall's API integration streamlines tasks, reducing computational overhead and improving overall performance.
+
+### Benefits of OneDall
+
+- *Accelerated Processing:* OneDall's APIs significantly speed up data-related operations, ensuring faster execution of tasks.
+- *Resource Optimization:* The library optimizes resource usage, resulting in improved performance without compromising accuracy.
+- *Ease of Implementation:* Integrating OneDall APIs into the project was seamless, providing a user-friendly solution for enhanced functionality.
+
+### How to Integrate OneDall
+
+To incorporate OneDall into your project, follow these steps:
+
+1. Visit [OneDall](https://onedall.com/) and sign up for an account.
+2. Obtain API keys from OneDall for the desired functionality.
+3. Update the project code to include the OneDall API calls, taking advantage of the library's capabilities.
+
+Feel free to explore the full range of OneDall's features to further optimize your project and elevate its performance.
 ![WhatsApp Image 2024-01-27 at 12 05 24 PM](https://github.com/Arjun-A3/Recruitment-Filtration-for-Enterprises-using-ML-model/assets/110415386/98bb730a-2124-4a79-9a34-6b224a133bd3)
 
 
