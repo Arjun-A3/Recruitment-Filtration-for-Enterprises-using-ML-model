@@ -28,8 +28,6 @@ This project, "Recruitment-Filtration-for-Enterprises-using-ML-model" leverages 
 
 
 ## Directory Structure
-
-    
         
     ├── Resume Ranker
     │   ├── Job Description.txt   
