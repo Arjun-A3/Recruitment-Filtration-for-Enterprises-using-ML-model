@@ -27,40 +27,11 @@ This project, "Recruitment-Filtration-for-Enterprises-using-ML-model" leverages 
 
  Gradio Interface: Launch the Gradio interface to upload a job description file and get the top 10 matching resumes.
 
-
-## Directory Structure
-        
-    ├── Resume Ranker
-    │   ├── Job Description.txt   
-    |   ├── resume-ranker.ipynb
-    │   └── dataset.csv                  
- 
- ## OneAPI Optimization
-
-This project has been optimized using the [OneDAL](https://OneDAL.com/) library, a powerful and efficient tool for accelerating data processing tasks. OneDAL provides a seamless integration of various APIs, simplifying the implementation of complex operations.
-
-### OneDAL Integration
-
-The project leverages the OneDAL library to enhance the efficiency of data processing, particularly in the context of resume ranking. OneDAL's API integration streamlines tasks, reducing computational overhead and improving overall performance.
-
-### Benefits of OneDAL
-
-- *Accelerated Processing:* OneDAL's APIs significantly speed up data-related operations, ensuring faster execution of tasks.
-- *Resource Optimization:* The library optimizes resource usage, resulting in improved performance without compromising accuracy.
-- *Ease of Implementation:* Integrating OneDAL APIs into the project was seamless, providing a user-friendly solution for enhanced functionality.
-
-### How to Integrate OneDAL
-
-To incorporate OneDAL into your project, follow these steps:
-
-1. Visit [OneDAL](https://OneDAL.com/) and sign up for an account.
-2. Obtain API keys from OneDAL for the desired functionality.
-3. Update the project code to include the OneDAL API calls, taking advantage of the library's capabilities.
-
-Feel free to explore the full range of OneDAL's features to further optimize your project and elevate its performance.
-![WhatsApp Image 2024-01-27 at 12 05 24 PM](https://github.com/Arjun-A3/Recruitment-Filtration-for-Enterprises-using-ML-model/assets/110415386/98bb730a-2124-4a79-9a34-6b224a133bd3)
-
-
+## File Structure
+ |-- Resume-Ranker-Using-Random-Forest
+    |-- resumeparserfinal.ipynb        # The main Python script for preprocessing, feature engineering, and model training.
+    |-- Job_Description.txt            # Sample job description file used for scoring resumes.
+    |-- Resume_Ranking_Data_Set.csv    # Sample CSV file containing resume data.
 
 ## Results
 The Gradio interface provides an interactive way to upload job descriptions and receive the top 10 matching resumes along with their scores.
